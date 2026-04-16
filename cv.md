@@ -1,5 +1,5 @@
 
-![evgeny]( img/photo_2026-03-18_12-57-19.jpg "my photo") 
+![evgeny]( imgages/photo_2026-03-18_12-57-19.jpg "my photo") 
 
 ## Mazurets Evgeny Valerievich
 
